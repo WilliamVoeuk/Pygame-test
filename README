@@ -1,0 +1,4 @@
+install pygame first:
+
+
+sudo apt-get install python-pygame
