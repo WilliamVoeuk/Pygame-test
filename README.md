@@ -8,8 +8,8 @@ I followed a youtube tutorial and added features:
 -The player can move up and down to dodge ennemies he can't beat
 -Mummies stay on the ground while aliens are in the air (variant altitude)
 
-I tried to convert the project into .exe but it failed (linux)
-So, don't pay intention to dist/main and build/main directories
+-I tried to convert the project into .exe but it failed (linux)
+-So, don't pay intention to dist/main and build/main directories
 
 
 FR:
